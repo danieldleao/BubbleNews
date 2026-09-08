@@ -1,0 +1,78 @@
+{
+    "Architecture | Urban Planning": [
+        "http://feeds.feedburner.com/Archdaily",
+        "https://www.architecturaldigest.com/feed/rss",
+        "https://www.dezeen.com/feed/",
+        "https://www.planetizen.com/frontpage/feed"
+    ],
+    "Art | Design": [
+        "https://feeds.feedburner.com/design-milk",
+        "https://uxdesign.cc/feed"
+    ],
+    "Coding": [
+        "https://feed.infoq.com/java",
+        "https://planetpython.org/rss20.xml",
+        "https://realpython.com/atom.xml"
+    ],
+    "Entertainment": [
+        "https://www.loudersound.com/feeds.xml",
+        "https://fortnitenews.com/rss/",
+        "https://www.marvel.com/rss/feed"
+    ],
+    "News Brasil": [
+        "https://apublica.org/feed/",
+        "https://www.cartacapital.com.br/feed/",
+        "https://www.intercept.com.br/feed/",
+        "https://ponte.org/feed/"
+    ],
+    "News Canada": [
+        "https://www.cbc.ca/webfeed/rss/rss-topstories",
+        "https://torontolife.com/feed/",
+        "https://feeds.feedburner.com/blogto",
+        "https://rabble.ca/feed/",
+        "https://www.thestar.com/search/?f=rss&t=article&c=news*&l=50&s=start_time&sd=desc"
+    ],
+    "News World": [
+        "https://www.404media.co/rss/",
+        "https://www.newyorker.com/feed/everything",
+        "https://www.propublica.org/feeds/propublica/main",
+        "https://theintercept.com/feed/?lang=en",
+        "https://www.vox.com/rss/index.xml",
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "https://www.aljazeera.com/xml/rss/all.xml"
+    ],
+    "Politics": [
+        "https://fightbacknews.org/feed/",
+        "https://jacobin.com/feed",
+        "https://liberationnews.org/feed/",
+        "https://mst.org.br/feed/",
+        "https://socialistproject.ca/feed/",
+        "https://www.democracynow.org/democracynow.rss",
+        "https://www.commondreams.org/rss.xml",
+        "https://therealnews.com/feed"
+    ],
+    "Science": [
+        "https://www.nasa.gov/news-release/feed/",
+        "https://pluralistic.net/feed/",
+        "https://feeds.science.org/rss/science.xml",
+        "https://chronicle.durhamcollege.ca/feed/",
+        "https://phys.org/rss-feed/",
+        "https://www.sciencedaily.com/rss/top/science.xml",
+        "https://feeds.arstechnica.com/arstechnica/science"
+    ],
+    "Tech News": [
+        "https://www.androidauthority.com/feed/",
+        "http://feeds.feedburner.com/linuxjournalcom",
+        "https://www.linuxinsider.com/rss-feed",
+        "https://www.techradar.com/feeds.xml",
+        "https://9to5google.com/feed/",
+        "https://gizmodo.com/feed",
+        "https://lifehacker.com/feed/rss",
+        "https://blogs.windows.com/feed/",
+        "https://feeds.arstechnica.com/arstechnica/index",
+        "https://www.theverge.com/rss/index.xml",
+        "https://techcrunch.com/feed/",
+        "https://disconnect.blog/rss/"
+    ]
+}
